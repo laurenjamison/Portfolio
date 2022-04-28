@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/blackandwhite.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -349,7 +349,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #f9bdd2;
+  color: #da80a0;
 }
 .about-me .content ul {
   list-style: none;
@@ -454,7 +454,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #f9bdd2;
+  color: #da80a0;
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
@@ -558,7 +558,7 @@ section .container {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #444444;
+  color: #f7f2f205;
   padding: 20px;
   width: 100%;
   background: rgba(255, 255, 255, 0.08);
