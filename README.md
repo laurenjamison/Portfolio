@@ -3,40 +3,22 @@
 > Live demo [_here_](https://laurenjamison1.com/).
 
 ## Table of Contents
-* [Home](#homepage)
-* [About](#about-me)
-* [Resume](#resume)
-* [Contact](#contact)
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+* Home
+* About
+* Resume
+* Contact
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+Found a template (on Bootstrap.com) to use as a guide for the HTML and CSS setup. Used a Web Static App to build website. 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+This project is completed.
 
+## Rooms for Improvement
+To do:
+- Add projects to a projects tab
 
-
-## Acknowledgements
-- This template was from Bootstrap (more details shown at the very top and bottom of the index.html coding. 
-
-
-## Contact
+## What I Learned
+I learned how to use HTML and CSS to design a fully-functioning website.
 
