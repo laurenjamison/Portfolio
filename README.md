@@ -1,4 +1,4 @@
-# Portfolio
+# Personal Portfolio Website
 > This personal porfolio website showcases my html and css skills to display information about myself, my professional resume, and contact information.
 > Live website [_here_](https://laurenjamison1.com/).
 
