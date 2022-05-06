@@ -15,8 +15,7 @@ Found a template (on Bootstrap.com) to use as a guide for the HTML and CSS setup
 This project is completed.
 
 ## Rooms for Improvement
-To do:
-- Add projects to a projects tab
+* Add a project section with examples of various projects I have done throughout my academic career
 
 ## What I Learned
 I learned how to use HTML and CSS to design a fully-functioning website.
