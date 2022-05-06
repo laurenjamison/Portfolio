@@ -9,7 +9,7 @@
 * Contact
 
 ## Setup
-Found a template (on Bootstrap.com) to use as a guide for the HTML and CSS setup. Used a Web Static App to build website. 
+I found a template (on Bootstrap.com) to use as a guide for the HTML and CSS setup. I used Web Static App through Azure to build and go live with my website.
 
 ## Project Status
 This project is _completed_.
